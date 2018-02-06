@@ -1,0 +1,4 @@
+baseURL = "https://jjbooth74.github.io"
+languageCode = "en-us"
+title = "J. Booth"
+theme = "hyde"
